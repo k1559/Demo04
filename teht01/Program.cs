@@ -10,6 +10,15 @@ namespace teht01
     {
         static void Main(string[] args)
         {
+            Hissi hissi = new Hissi();
+            hissi.Kerros = 1;
+            do
+            {
+                Console.WriteLine("Olet nyt kerroksessa: " + hissi.Kerros);
+                Console.WriteLine("Mihin kerrokseen haluat?");
+                hissi.Kerros = int.Parse(Console.ReadLine());
+            } while (hissi.Kerros!=0);
+        
         }
     }
 }

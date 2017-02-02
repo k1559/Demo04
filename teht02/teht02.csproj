@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{90CABF44-BE3C-408A-B631-73D68436E64B}</ProjectGuid>
+    <ProjectGuid>{9ECAA731-A270-4E0A-8CF2-59F20BE9A5E8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>teht01</RootNamespace>
-    <AssemblyName>teht01</AssemblyName>
+    <RootNamespace>teht02</RootNamespace>
+    <AssemblyName>teht02</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Hissi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vahvistin.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

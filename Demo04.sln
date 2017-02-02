@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht01", "teht01\teht01.csproj", "{90CABF44-BE3C-408A-B631-73D68436E64B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonApplication", "PersonApplication\PersonApplication.csproj", "{CBD62E9E-5004-41DE-BB37-B6B3D1A9CEDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht02", "teht02\teht02.csproj", "{9ECAA731-A270-4E0A-8CF2-59F20BE9A5E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{90CABF44-BE3C-408A-B631-73D68436E64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90CABF44-BE3C-408A-B631-73D68436E64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90CABF44-BE3C-408A-B631-73D68436E64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD62E9E-5004-41DE-BB37-B6B3D1A9CEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD62E9E-5004-41DE-BB37-B6B3D1A9CEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD62E9E-5004-41DE-BB37-B6B3D1A9CEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD62E9E-5004-41DE-BB37-B6B3D1A9CEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECAA731-A270-4E0A-8CF2-59F20BE9A5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECAA731-A270-4E0A-8CF2-59F20BE9A5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECAA731-A270-4E0A-8CF2-59F20BE9A5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECAA731-A270-4E0A-8CF2-59F20BE9A5E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
